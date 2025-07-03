@@ -1,6 +1,8 @@
 ## 👨‍💻 About Me
 👋 Hi, I'm Jaskaran and I'm backend developer.
+
 🔧 I'm currently working on [Entertainistan](https://entertainistan.com/)
+
 📫 You can reach out to me via email [contact@jaskarandhadda.com](mailto:contact@jaskarandhadda.com)
 
 ## 🌐 Socials
