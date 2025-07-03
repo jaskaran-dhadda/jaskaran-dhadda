@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 👋 Hi, I'm Jaskaran and I'm backend developer.
 🔧 I'm currently working on [Entertainistan](https://entertainistan.com/)
-📫 You can reach out to me via email [contact@jaskarandhadda.com]((mailto:contact@jaskarandhadda.com)
+📫 You can reach out to me via email [contact@jaskarandhadda.com](mailto:contact@jaskarandhadda.com)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaskaran.dhadda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaskaran.dhadda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaskaran_dhadda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jaskaran_dhadda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskaran-dhadda) 
