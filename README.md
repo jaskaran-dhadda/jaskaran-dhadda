@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-👋 Hi, I'm Jaskaran and I'm backend developer.
+👋 Hi, I'm Jaskaran and I'm a backend developer.
 
 🔧 I'm currently working on [Entertainistan](https://entertainistan.com/)
 
